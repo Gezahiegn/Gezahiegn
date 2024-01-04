@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gezahiegn Tessema(MSc in education in computer science ,GIS and Remote sensing
+- 👋 Hi, I’m Gezahiegn Tessema(MSc in computer science and GIS and Remote sensing
 - 👀 I’m interested in IT and computing
 - I’m interested in GIS and and remote sensing with matchine learning and deep learning 
 - 🌱 I’m currently computer science instructor at Dilla university ,Ethiopia
